@@ -22,7 +22,7 @@ setup(
     # url='http://github.com/jgarthur/arcsv/',
     packages=find_packages(exclude=('build', 'dist')),
     install_requires=[
-        'pysam==0.11.2.2',
+        'pysam==0.20.0',
         'numpy',
         'scipy',
         'scikit-learn',
